@@ -1,2 +1,2 @@
 # Minions
-Repo to dev training
+Using Intellij & Gradle
